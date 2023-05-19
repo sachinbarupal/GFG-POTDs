@@ -22,7 +22,9 @@ mat[][] = {{0, 0, 0, 0, 0, 0, 0, 1},
            {0, 1, 0, 1, 0, 0, 0, 1}, 
            {0, 1, 1, 1, 1, 0, 1, 0}, 
            {1, 0, 0, 0, 0, 1, 0, 1}} 
-There are 2 closed islands. The islands in dark are closed because they are completely surrounded by 0s (water). There are two more islands in the last column of the matrix, but they are not completely surrounded by 0s. Hence they are not closed islands. 
+There are 2 closed islands. The islands in dark are closed because they are completely surrounded by 0s (water).
+There are two more islands in the last column of the matrix, but they are not completely surrounded by 0s.
+Hence they are not closed islands. 
 ```
 
 ## Example 2 :
